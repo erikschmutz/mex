@@ -1,0 +1,4 @@
+(library
+ (name lib)
+ (libraries unix utils alg1)
+)

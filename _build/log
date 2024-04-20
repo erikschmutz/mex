@@ -1,0 +1,5 @@
+# dune init proj mex
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /Users/erikrehn/Desktop/skola/mex
+# Auto-detected concurrency: 10

@@ -1,0 +1,1 @@
+cd src && opam exec -- dune exec ./index.exe && cd -

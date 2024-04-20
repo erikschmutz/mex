@@ -1,0 +1,5 @@
+(library
+ (name udp)
+ (libraries unix utils alg1)
+ (modules client server)
+)
