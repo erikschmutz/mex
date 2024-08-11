@@ -1,0 +1,7 @@
+(executable
+ (public_name chapar)
+ (name main)
+ (flags :standard -g -w -8-33-26-32-34)
+ (libraries utils protocols runtime alg2 alg3 alg1)
+ (package coq-chapar-stores)
+ )

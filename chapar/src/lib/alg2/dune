@@ -1,0 +1,6 @@
+(library
+ (name alg2)
+ (libraries batteries utils)
+ (modules KVSAlg2 main)
+ (flags :standard -w -3-27-33-39)
+)

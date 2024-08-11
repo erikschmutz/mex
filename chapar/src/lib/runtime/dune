@@ -1,0 +1,6 @@
+(library
+ (name runtime)
+ (libraries batteries utils protocols)
+ (modules runtime)
+ (flags :standard -w -3-27-33-39)
+)
