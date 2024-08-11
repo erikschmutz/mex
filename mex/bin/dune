@@ -1,5 +1,0 @@
-(executable
- (public_name mex)
- (name main)
- 
- (libraries lib tests))

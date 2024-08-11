@@ -1,1 +1,0 @@
-printf "Trying to start server..."

@@ -1,1 +1,0 @@
-cd src/server && opam exec -- dune exec ./server.exe && cd -
